@@ -1,0 +1,9 @@
+insert into Alien values (101,'Ashish','Java');
+insert into Alien values (102,'Vidit','Java');
+insert into Alien values (103,'Palash','Java');
+insert into Alien values (104,'Abhigyan','Java');
+insert into Alien values (105,'Baibhav','Java');
+insert into Alien values (106,'Zaheer','Java');
+insert into Alien values (107,'Ashish6','Java5');
+insert into Alien values (108,'Ashish7','Java5');
+insert into Alien values (109,'Ashish8','Java8');
